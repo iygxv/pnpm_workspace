@@ -1,2 +1,3 @@
-# pnpm_workspace
-pnpm_workspace构建monorepo仓库
+# pnpm workspace构建monorepo仓库
+## 描述
+
